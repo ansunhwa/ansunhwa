@@ -1,4 +1,9 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
+<h1 align="center">🌿 안순화 | Backend Developer</h1>
+<p align="center">
+  <b>꾸준히 배우고 기록하는 개발자</b><br>
+  Spring Boot · React · MySQL · JPA
+</p>
 
 <!--
 **ansunhwa/ansunhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
