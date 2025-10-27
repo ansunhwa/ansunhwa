@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Tistory-5E5E8C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
 </div>
-<!-- 💻 TECH STACK -->
+<!-- TECH STACK -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
 
@@ -34,7 +34,7 @@
 <br>
 <br>
 
-<!-- 🧰 TOOLS -->
+<!-- TOOLS -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧰 Tools 🧰 </h2>
 
@@ -50,12 +50,17 @@
    <br>
    <br>
 
+<!-- stats -->
 <div align="center">
-  <h2 style="border-bottom:1px solid #d8dee4;color:#282d33;">📊 Stats</h2>
-
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ansunhwa&show_icons=true&theme=calm&hide_border=true&rank_icon=percentile&include_all_commits=true" 
-    alt="GitHub stats" />
+    src="https://github-readme-stats.vercel.app/api?username=ansunhwa&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=percentile" 
+    alt="GitHub stats" 
+    height="150" />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansunhwa&layout=compact&theme=rose_pine&hide_border=true" 
+    alt="Top languages" 
+    height="150" />
 </div>
 
 <!--
