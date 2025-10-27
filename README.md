@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/MySQL-A7C7E7?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-FEC89A?style=for-the-badge&logo=oracle&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/React-C3B1E1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FFE699?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-F7CAC9?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-AEDFF7?style=for-the-badge&logo=css3&logoColor=white" />
