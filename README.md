@@ -2,6 +2,18 @@
 <div class="header">
       <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=SunHwa%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="SunHwa GitHub">
     </div>
+    <!--자기소개 -->
+    <div align="center" style="margin-top: 20px;">
+
+  <h3 style="font-size: 24px; font-weight: bold; color: #F5A9B8;">
+    안녕하세요! 👋
+  </h3>
+
+  <p style="font-size: 18px; color: #555; line-height: 1.6;">
+    기초에 충실하고 <strong>협업에 강한</strong> 개발자, <strong>안순화</strong> 입니다! 💻✨
+  </p>
+
+</div>
 
 <!-- TECH STACK -->
 <div align="center">
