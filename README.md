@@ -10,7 +10,7 @@
   </h3>
 
   <p style="font-size: 18px; color: #555; line-height: 1.6;">
-    기초에 충실하고 <strong>협업에 강한</strong> 개발자, <strong>안순화</strong> 입니다! 💻✨
+    기초에 충실하고 <strong>협업에 강한 <strong>안순화</strong> 입니다! 💻✨
   </p>
 
 </div>
