@@ -22,7 +22,6 @@
 
   <img src="https://img.shields.io/badge/Java-F7C5CC?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-B7E5B4?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis-9DB2BF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-F4C2C2?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-A7C7E7?style=for-the-badge&logo=mysql&logoColor=white" />
   <br>
@@ -30,9 +29,9 @@
   <img src="https://img.shields.io/badge/JavaScript-FFE699?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-F7CAC9?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-AEDFF7?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-C9E4DE?style=for-the-badge&logo=tailwindcss&logoColor=black" />
 </div>
 
+<br>
 <br>
 
 <!-- 🧰 TOOLS -->
@@ -48,7 +47,8 @@
   <img src="https://img.shields.io/badge/Notion-FFD6A5?style=for-the-badge&logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/ERD_Cloud-CAE7B9?style=for-the-badge&logoColor=white" />
 </div>
-   
+   <br>
+   <br>
 
 <!--
 **ansunhwa/ansunhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
