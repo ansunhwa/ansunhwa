@@ -23,8 +23,8 @@
 
   <img src="https://img.shields.io/badge/Java-F7C5CC?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-B7E5B4?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-F4C2C2?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-A7C7E7?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-FEC89A?style=for-the-badge&logo=oracle&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/React-C3B1E1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FFE699?style=for-the-badge&logo=javascript&logoColor=black" />
