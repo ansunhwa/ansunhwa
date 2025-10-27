@@ -50,6 +50,14 @@
    <br>
    <br>
 
+<div align="center">
+  <h2 style="border-bottom:1px solid #d8dee4;color:#282d33;">📊 Stats</h2>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ansunhwa&show_icons=true&theme=calm&hide_border=true&rank_icon=percentile&include_all_commits=true" 
+    alt="GitHub stats" />
+</div>
+
 <!--
 **ansunhwa/ansunhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
