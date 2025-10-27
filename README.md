@@ -1,6 +1,6 @@
 <!--## Hi there 👋 -->
 <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=SunHwa%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="SunHwa GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=🌼SunHwa%20GitHub🌼%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="SunHwa GitHub">
     </div>
     <!--자기소개 -->
     <div align="center" style="margin-top: 20px;">
