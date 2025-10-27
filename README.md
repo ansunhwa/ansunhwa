@@ -11,7 +11,7 @@
 
   <!-- Tistory 버튼 -->
   <a href="https://note-ash.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Blog-5E5E8C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tech Blog Badge"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog-5E5E8C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
 </div>
    
