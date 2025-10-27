@@ -4,7 +4,9 @@
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-      
+      <p>📧 <a href="mailto:hbo1053@gmail.com" style="text-decoration:none; color:#F5C0CA;">hbo1053@gmail.com</a></p>
+  <p>📝 <a href="https://note-ash.tistory.com" target="_blank" style="text-decoration:none; color:#F5C0CA;">https://note-ash.tistory.com</a></p>
+</div>
    
 
 <!--
