@@ -2,18 +2,7 @@
 <div class="header">
       <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=SunHwa%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="SunHwa GitHub">
     </div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-     <!-- Gmail 버튼 -->
-  <a href="mailto:hbo1053@gmail.com">
-    <img src="https://img.shields.io/badge/hbo1053@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 
-  <!-- Tistory 버튼 -->
-  <a href="https://note-ash.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-5E5E8C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
-  </a>
-</div>
 <!-- TECH STACK -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
@@ -49,6 +38,21 @@
 </div>
    <br>
    <br>
+
+   <br>
+   <br>
+   <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+     <!-- Gmail 버튼 -->
+  <a href="mailto:hbo1053@gmail.com">
+    <img src="https://img.shields.io/badge/hbo1053@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <!-- Tistory 버튼 -->
+  <a href="https://note-ash.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-5E5E8C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
+  </a>
+</div>
 
 <!-- stats -->
 <div align="center">
