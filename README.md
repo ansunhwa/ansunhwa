@@ -39,8 +39,6 @@
    <br>
    <br>
 
-   <br>
-   <br>
    <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
      <!-- Gmail 버튼 -->
@@ -53,9 +51,12 @@
     <img src="https://img.shields.io/badge/Tistory-5E5E8C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
 </div>
+<br>
+   <br>
 
 <!-- stats -->
 <div align="center">
+       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats 📊 </h2>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ansunhwa&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=percentile" 
     alt="GitHub stats" 
